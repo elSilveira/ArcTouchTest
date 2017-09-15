@@ -1,4 +1,6 @@
 # ArcTech
+Use the /AppTesting
+
 Hi,
 This is a basic Xamarin Android application developed to ArchTech for a role test.
 
