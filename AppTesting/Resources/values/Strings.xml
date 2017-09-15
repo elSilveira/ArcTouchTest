@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="UpcomingMovies">UPCOMING</string>
+  <string name="TopMovies">TOP MOVIES</string>
+    <string name="ApplicationName">AppTesting</string>
+</resources>

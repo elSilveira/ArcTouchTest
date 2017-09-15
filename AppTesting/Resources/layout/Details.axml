@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal">
+  <TextView
+    android:id="@+id/txtMovieNameDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:paddingTop="10px"/>
+  <TextView
+    android:id="@+id/txtMovieRealNameDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:paddingTop="2px"
+    android:textSize="12px"/>
+  <ImageView
+    android:id="@+id/imgMovieDetail"
+    android:layout_width="450px"
+    android:layout_height="900px"
+    android:paddingTop="5px"
+    android:layout_gravity="center"/>
+  <TextView
+    android:id="@+id/txtMovieRateDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="5px"/>
+  <TextView
+    android:id="@+id/txtMovieGenreDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10px"/>
+  <TextView
+    android:id="@+id/txtMovieOverviewDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="5px"/>
+  <TextView
+    android:id="@+id/txtMovieReleaseDetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="5px"/>
+</LinearLayout>
+</LinearLayout>
