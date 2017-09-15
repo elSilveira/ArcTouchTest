@@ -19,3 +19,6 @@ so I apreciate for your comments.
 
 Best wishes,
 Eduardo Silveira.
+
+
+Time Used to development: 6 hours. (Delayed by connection problem and deploy lag to tests.)
